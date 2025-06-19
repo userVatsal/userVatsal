@@ -12,23 +12,9 @@ I am a multidisciplinary **Full-Stack Developer & AI Engineer** passionate about
 - 🎨 Craft robust, responsive UI/UX using modern front-end stacks and design systems  
 
 ---
+### 🛠 Tech Stack
 
-## 🛠 Tech Stack
-
-### Frontend  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20" /> HTML5 |  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" /> CSS3 |  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="20" height="20" /> Tailwind CSS |  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" /> JavaScript |  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" height="20" /> TypeScript |  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" /> React |  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20" height="20" /> Next.js |  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel.svg" width="20" height="20" /> Vercel
-For your full tech stack, here’s a complete example with icons included for each tech:
-markdown
-Copy
-Edit
-### Frontend  
+#### Frontend  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20" /> HTML5 |  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" /> CSS3 |  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="20" height="20" /> Tailwind CSS |  
@@ -38,7 +24,7 @@ Edit
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20" height="20" /> Next.js |  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel.svg" width="20" height="20" /> Vercel
 
-### Backend  
+#### Backend  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" height="20" /> Node.js |  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20" /> Python |  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="20" height="20" /> Express |  
@@ -46,14 +32,14 @@ Edit
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="20" height="20" /> GraphQL |  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="20" height="20" /> WebSockets
 
-### Databases  
+#### Databases  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20" height="20" /> MongoDB |  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" height="20" /> PostgreSQL |  
 SQL | NoSQL |  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="20" height="20" /> Redis |  
 <img src="https://clickhouse.com/ClickHouse-Logo.svg" width="20" height="20" /> ClickHouse
 
-### AI/ML  
+#### AI/ML  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="20" height="20" /> TensorFlow |  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="20" height="20" /> PyTorch |  
 <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="20" height="20" /> Scikit-learn |  
@@ -61,7 +47,7 @@ SQL | NoSQL |
 <img src="https://openai.com/content/images/2022/05/openai-avatar.png" width="20" height="20" /> OpenAI GPT |  
 LangChain
 
-### DevOps & Cloud  
+#### DevOps & Cloud  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="20" height="20" /> AWS |  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="20" height="20" /> Azure |  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="20" height="20" /> GCP |  
@@ -70,6 +56,8 @@ LangChain
 <img src="https://www.terraform.io/assets/images/logo-hashicorp-terraform.svg" width="20" height="20" /> Terraform |  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="20" height="20" /> Jenkins |  
 <img src="https://www.cloudflare.com/img/Cloudflare-Logo-Full.svg" width="20" height="20" /> Cloudflare
+
+
 
 ### Security  
 Penetration Testing | HIPAA Compliance | Network Security | OAuth2
